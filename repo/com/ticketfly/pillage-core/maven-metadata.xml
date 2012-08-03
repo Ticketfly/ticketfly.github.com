@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.ticketfly</groupId>
   <artifactId>pillage-core</artifactId>
-  <version>34.7</version>
+  <version>35.0</version>
   <versioning>
     <versions>
-      <version>34.7</version>
+      <version>35.0</version>
     </versions>
-    <lastUpdated>20120803070833</lastUpdated>
+    <lastUpdated>20120803072331</lastUpdated>
   </versioning>
 </metadata>
